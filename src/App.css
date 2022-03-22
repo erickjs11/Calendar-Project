@@ -1,0 +1,14 @@
+
+
+.calendar .day {
+  position: relative;
+  width: 50px ;
+  height: 38px ;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.87);
+  padding: 0;
+  margin: 1px;
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: center;
+}
